@@ -1,1 +1,3 @@
-Hadoop-Source-Code-Comment
+Hadoop学习项目
+
+目标是尽量中文注释逐行覆盖。
